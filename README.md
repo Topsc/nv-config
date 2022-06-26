@@ -1,0 +1,2 @@
+# nv-config
+NeoVim Config
